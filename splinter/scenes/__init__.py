@@ -1,0 +1,1 @@
+from splinter.scenes.scene import AbstractScene
