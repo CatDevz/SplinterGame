@@ -7,7 +7,7 @@
                  
 ```
 
-##How to play
+## How to play
 First clone this repository, then execute `main.py`. Make 
 sure `/splinter/` is inside of your `PYTHONPATH`. Later on
 I will be making this easier.
